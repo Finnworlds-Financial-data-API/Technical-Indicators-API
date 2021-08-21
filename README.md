@@ -1,5 +1,5 @@
 
-<h1>Balance Sheet API - Finnworlds</h1>
+<h1>Technical Indicators API - Finnworlds</h1>
 
 <p>The <a href="https://finnworlds.com/finance-data/technical-indicators-api/">Technical indicator API</a> is a fast and accurate REST API to get data on the most widely used Technical Indicators. The API uses the industry standard formulas to calculate the indicators.
 What API does is to provide detailed and analysis-oriented technical indicator data based on historical prices of stocks. The API takes into account candlesticks of 1m, 5m, 15m, 30m, 1h, 2h, 4h, 12h, 1d and 1w to accurately produce technical indicator data. 
