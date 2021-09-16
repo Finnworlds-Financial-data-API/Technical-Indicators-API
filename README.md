@@ -84,7 +84,7 @@ Our <a href="https://finnworlds.com/documentation">documentation</a> includes in
 
 
 <p><strong>RSI</strong><p>
-<p>https://finnworlds.com/api/v1/technicalindicators?key=YOUR-KEY&stock_ticker_symbol=aapl&technical_indicator=relative_strength_index</p>
+<p><a href="" onclick="return false;">https://finnworlds.com/api/v1/technicalindicators?key=YOUR-KEY&stock_ticker_symbol=aapl&technical_indicator=relative_strength_index</a></p>
 
 
 
